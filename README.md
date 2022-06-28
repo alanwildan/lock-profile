@@ -13,8 +13,6 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
  1. install Puffin browser[Click](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fhl%3Den%26id%3Dcom.cloudmosa.puffinFree%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dpuffin%2Bbrowser&ved=2ahUKEwjrgraO7s_4AhUBRmwGHdRxCkgQFnoECGsQAQ&usg=AOvVaw22JaIppRaXIurQa-_nVepR)
  2. buka link https://m.facebook.com di Puffin browser
  3. copy code di atas dan lakukan seperti gambar di bawah
-    
-
    4. timpa code di link
 <p align="center">
 <img src="lib/st1.jpg" width="400" height="374.3373493975904" alt="st1">
@@ -23,7 +21,6 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
 <img src="lib/st11.jpg" width="400" height="374.3373493975904" alt="st11">
 </p>
     5. login menggunakan akun kamu
-
     6. masuk ke halaman profile lalu ulangi lagi cara yang #1 timpa code di link, refresh 
 <p align="center">
 <img src="lib/st2.jpg" width="400" height="374.3373493975904" alt="st2">
