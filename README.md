@@ -20,7 +20,7 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
 <img src="lib/st1.jpg" width="400" height="374.3373493975904" alt="st1">
 </p>
 <p align="center">
-<img src="lib/st11.jpg" width="400" height="374.3373493975904" alt="st1">
+<img src="lib/stt1.jpg" width="400" height="374.3373493975904" alt="st1">
 </p>
     5. login menggunakan akun kamu
 <p align="center">
