@@ -15,10 +15,12 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
  3. copy code di atas dan lakukan seperti gambar di bawah
  4. login menggunakan akun kamu
  5. timpa code di link lalu enter
-<p align="center">
-<img src="lib/st1.jpg" width="400" height="374.3373493975904" alt="st1">
+
+* <p align="center">
+<img src="lib/st1.jpg" width="700" height="300" alt="st1">
 </p>
-<p align="center">
-<img src="lib/st11.jpg" width="400" height="374.3373493975904" alt="st11">
+
+* <p align="center">
+<img src="lib/st11.jpg" width="700" height="200" alt="st11">
 </p>
  6. refresh lalu masuk ke aplikasi Facebook kamu
