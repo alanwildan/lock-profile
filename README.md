@@ -14,15 +14,15 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
  2. buka link https://m.facebook.com di Puffin browser
  3. copy code di atas dan lakukan seperti gambar di bawah
    
-    1. timpa code di link
+    4. timpa code di link
 <p align="center">
 <img src="lib/st1.jpg" width="400" height="374.3373493975904" alt="st1">
 </p>
 <p align="center">
 <img src="lib/st11.jpg" width="400" height="374.3373493975904" alt="st1">
 </p>
-    2. login menggunakan akun kamu
+    5. login menggunakan akun kamu
 <p align="center">
 <img src="lib/st2.jpg" width="400" height="374.3373493975904" alt="st2">
 </p>
-    3. masuk ke halaman profile lalu ulangi lagi cara yang #1 timpa code di link, refresh 
+    6. masuk ke halaman profile lalu ulangi lagi cara yang #1 timpa code di link, refresh 
