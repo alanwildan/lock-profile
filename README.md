@@ -22,7 +22,7 @@ javascript:(async function(a){var e=document.body.innerHTML.match(/name=\"fb_dts
 </p>
  5. login menggunakan akun kamu
 
- 6. masuk ke halaman profile lalu ulangi lagi cara yang #1 timpa code di link, refresh 
+6. masuk ke halaman profile lalu ulangi lagi cara yang #1 timpa code di link, refresh 
 <p align="center">
 <img src="lib/st2.jpg" width="400" height="374.3373493975904" alt="st2">
 </p>
